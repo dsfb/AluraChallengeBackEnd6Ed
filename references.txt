@@ -1,0 +1,8 @@
+
+https://selectfrom.dev/how-to-configure-django-postgresql-environment-using-docker-8d5bb2db447c
+
+https://learndjango.com/tutorials/django-docker-and-postgresql-tutorial
+
+https://www.django-rest-framework.org/tutorial/quickstart/
+
+https://djangostars.com/blog/rest-apis-django-development/
