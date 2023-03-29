@@ -6,3 +6,7 @@ https://learndjango.com/tutorials/django-docker-and-postgresql-tutorial
 https://www.django-rest-framework.org/tutorial/quickstart/
 
 https://djangostars.com/blog/rest-apis-django-development/
+
+-- Parte de Postgresql com Django Rest Framework:
+
+https://dev.to/jkaylight/django-rest-framework-with-postgresql-a-crud-tutorial-1l34

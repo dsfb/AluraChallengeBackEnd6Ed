@@ -27,9 +27,10 @@ RUN pip install -r requirements.txt
 
 WORKDIR /home/adopet
 
-# RUN python3 manage.py makemigrations adopetapp
 RUN python3 manage.py makemigrations
 
 RUN python3 manage.py migrate
+
+RUN python3 manage.py createsuperuser --email admin@example.com --username admin
 
 RUN python3 manage.py runserver 0.0.0.0:8000
